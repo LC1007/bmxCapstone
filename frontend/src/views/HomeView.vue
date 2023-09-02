@@ -30,6 +30,7 @@
                 <div class="card-body">
                   <h4 class="card-tite">Neo Bmx 16"</h4>
                   <p class="card-text">R10 000</p>
+                  <router-link to="/product"><button class="btn btn-dark">View More</button></router-link>
                 </div>
               </div>
             </div>
@@ -39,6 +40,7 @@
                   <div class="card-body">
                     <h4 class="card-tite">Neo Bmx 16"</h4>
                     <p class="card-text">R10 000</p>
+                    <router-link to="/product"><button class="btn btn-dark">View More</button></router-link>
                   </div>
                 </div>
             </div>
@@ -48,6 +50,7 @@
                     <div class="card-body">
                       <h4 class="card-tite">Neo Bmx 16"</h4>
                       <p class="card-text">R10 000</p>
+                      <router-link to="/product"><button class="btn btn-dark">View More</button></router-link>
                     </div>
                   </div>
               </div>
@@ -57,6 +60,7 @@
                     <div class="card-body">
                       <h4 class="card-tite">Neo Bmx 16"</h4>
                       <p class="card-text">R10 000</p>
+                      <router-link to="/product"><button class="btn btn-dark">View More</button></router-link>
                     </div>
                   </div>
               </div>
